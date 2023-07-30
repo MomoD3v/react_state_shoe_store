@@ -1,2 +1,2 @@
 # react_state_shoe_store
-a shoie store project to practice different react state managment methods
+a shoe store project to practice different react state management methods
